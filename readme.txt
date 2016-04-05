@@ -1,1 +1,3 @@
  git config --global user.name
+ Git is a distributed version control system.
+Git is free software.
